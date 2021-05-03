@@ -1,0 +1,2 @@
+from playsound import playsound
+playsound('D://iphone-x-taki-taki-marimba-remix-1-53497.mp3')
